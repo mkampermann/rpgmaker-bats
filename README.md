@@ -17,7 +17,7 @@ Rules
 - You can select if your project is compatible with MV, MZ, or both
 - If you selected "both", your end user may choose which version to install when running the batch file
 
-# What you need to do as Dev
+# What you need to do as a Dev
 1. Make a fresh new folder on your machine and cherry-pick your data, graphics, audios, plugins...
 
 ![](img/intro3.png)
